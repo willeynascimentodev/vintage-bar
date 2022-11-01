@@ -39,6 +39,7 @@
     margin-left: auto;
     margin-left: -20px;
     margin-top: 100px;
+    border-top: 1px solid #00000029;
 }
 
 i {
@@ -62,6 +63,11 @@ i {
 .head-nav-mobile nav ul li a{ 
     text-decoration: none;
     color: #000000;
+}
+
+.fa-chevron {
+    width: 10px;
+    float: right;
 }
 
 .footer-nav {
