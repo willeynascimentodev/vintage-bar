@@ -1,0 +1,217 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.flex-container {
+    display: block;
+    margin: auto;
+}
+
+.bg-white {
+    background-color: #FFFFFF;
+}
+
+.bg-gray {
+    background-color: #F1EFEA;
+}
+
+.left, .right{
+    width: 100%;
+}
+
+.left div, .right div{
+    margin: auto;
+    display: block;
+    width: 90%;
+}
+
+section div {
+    width: 95%;
+    margin: auto;
+}
+
+.header-mobile {
+    padding: 25px;
+}
+
+.fa-bars {
+    font-size: 20px;
+    position: absolute;
+    margin-top: 5px;
+}
+
+.logo {
+    display: block;
+    width: 160px;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.logo img {
+    width: 100%;
+}
+
+section {
+    padding: 80px 0px 80px 0px;
+}
+
+#join {
+    padding-top: 40px;
+}
+
+#join .left {
+    margin-top: 22px;
+}
+
+#join .left span{
+
+    
+    font: normal normal medium 12px/20px Manrope;
+    letter-spacing: 3.6px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+#join .left h1{
+
+    
+    font: normal normal 300 36px/40px Chronicle Display;
+    letter-spacing: 0px;
+    color: #111111;
+    
+}
+
+#join .left a{
+    
+    text-decoration: underline;
+    font: normal normal normal 14px/19px Manrope;
+    letter-spacing: 0px;
+    color: #000000;
+
+}
+
+#join .right p{ 
+    padding-top: 0;
+    
+    font: normal normal normal 16px/24px Chronicle Display;
+    letter-spacing: 0px;
+    color: #656565;
+}
+
+#benefits span, #benefits h1 { 
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+#benefits span {
+    text-align: center;
+    font: normal normal 600 12px/20px Manrope;
+    letter-spacing: 3.6px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+#benefits h1 {
+    text-align: center;
+    font: normal normal 300 32px/43px Chronicle Display;
+    letter-spacing: 0px;
+    color: #111111;
+    margin-bottom: 30px;
+     
+}
+
+
+.card {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 60px #65656503;
+    border-radius: 4px;
+    
+    width: 75% !important;
+    padding: 40px;
+    margin: auto;
+    margin-top: 40px !important;
+    
+}
+
+.card ul {
+    list-style: none;
+    padding-left: 0px !important;
+}
+
+.card ul li {
+    font: normal normal normal 16px/33px Chronicle Display;
+    letter-spacing: 0px;
+    color: #656565;
+}
+
+.card ul li::before {
+    content: "✔";
+    margin-right: 10px;
+    font-weight: bold;
+    color:#000000;
+}
+
+.btn-action {
+    display: block;
+    margin: auto;
+    padding: 10px;
+    width: 50% !important;
+    background: #444444 0% 0% no-repeat padding-box;
+    color: #FFFFFF !important;
+    bottom: 50px !important;
+    height: 18px;
+    text-align: center;
+    font: normal normal medium 13px/20px Manrope;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    margin-top: -20px;
+    font-size: 13px !important;
+    cursor: pointer;
+
+}
+
+#extra div .right h1{
+    font: normal normal 300 32px/43px Chronicle Display;
+    letter-spacing: 0px;
+    color: #111111;
+    margin: 50px 0 50px 0;
+}
+
+#extra div .right h2{
+    font: normal normal bold 12px/17px Manrope;
+    letter-spacing: 1.2px;
+    color: #000000;
+    text-transform: uppercase;
+}
+
+#extra div .right p{
+    font: normal normal normal 16px/24px Chronicle Display;
+    letter-spacing: 0px;
+    color: #656565;
+}
+
+#extra div .left img{ 
+    width: 49%;
+    text-align: center;
+}
+
+#extra {
+    padding-top: 0px !important;
+}
+
+#extra .contains-elements {
+    width: 100%;
+}
+
+#extra .contains-elements .left div { 
+    width: 100% !important; 
+    margin: auto;
+}
+
+

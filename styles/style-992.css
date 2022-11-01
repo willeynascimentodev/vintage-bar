@@ -1,0 +1,24 @@
+@media (min-width: 992px) {
+
+    .left, .right {
+        width: 32%;
+      }
+
+    #join .left h1{
+        font: normal normal 300 40px/50px Chronicle Display;
+    }
+
+
+    #join .right p{ 
+        font: normal normal normal 18px/26px Chronicle Display;
+    }
+
+    #extra .contains-elements .left div { 
+        width: 90%;
+    }
+
+    .btn-action {
+        font-size: 12px !important; 
+    }
+
+}

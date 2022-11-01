@@ -1,0 +1,50 @@
+@media (min-width: 768px) {
+
+    .left, .right{
+        width: 45%;
+    }
+
+    .flex-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin: 20px 0 20px 0;
+    }
+
+    #extra div .left{ 
+        /* margin-right: 5%; */
+    }
+    
+
+    #extra div .left img{ 
+        width: 49%;
+        text-align: right;
+    
+    }
+
+    #extra {
+        padding-top: 80px !important;
+    }
+
+    #join {
+        padding-top: 80px;
+    }
+
+    section div {
+        margin: inherit;
+        width: 100%;
+    }
+
+    .left div, .right div {
+        width: 80%;
+    }
+
+    #extra .contains-elements .right div{ 
+        padding-left: 20%;
+    }
+
+    .btn-action {
+        font-size: 8px !important; 
+    }
+
+}
